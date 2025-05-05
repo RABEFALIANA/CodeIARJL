@@ -3,3 +3,4 @@ groq
 PyMuPDF
 requests
 beautifulsoup4
+PyPDF2
