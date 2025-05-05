@@ -129,7 +129,7 @@ def process_all_pdfs(data_directory, output_directory):
 
 def main():
     data_directory = "./data1"
-    output_directory = "./output_3"
+    output_directory = "./output_4"
 
     os.makedirs(output_directory, exist_ok=True)
     process_all_pdfs(data_directory, output_directory)
