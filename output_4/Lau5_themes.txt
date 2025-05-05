@@ -1,33 +1,171 @@
-1. voici les grandes thématiques sociologiques abordées dans cet entretien semi-directif :
-2. **l'impact des technologies de l'information et de la communication (tic) sur l'apprentissage et le travail** : l'entretien explore comment chatgpt est utilisé par les étudiants dans leur parcours académique et professionnel
-3. **la perception et l'usage de l'intelligence artificielle (ia) et de chatgpt** : la discussion se concentre sur la compréhension et les représentations que jessica a de chatgpt et de l'ia en général, y compris ses avantages et ses limites
-4. **les usages spécifiques de chatgpt dans le contexte universitaire** : l'entretien examine comment jessica utilise chatgpt pour diverses tâches académiques, telles que la correction de textes, la recherche d'idées et la synthèse de documents
-5. **la relation entre les étudiants et les institutions académiques face aux nouvelles technologies** : la conversation aborde la manière dont les professeurs et les institutions réagissent à l'utilisation de chatgpt, y compris les interdictions et les préoccupations concernant l'intégrité académique
-6. **les implications sociales et professionnelles de l'ia et de chatgpt** : jessica et jonathan discutent des conséquences potentielles de l'ia sur les métiers et les professions, notamment dans le domaine du travail social
-7. **l'accès et la familiarité avec les technologies numériques** : l'entretien montre comment jessica, issue d'une formation en travail social, a découvert et commencé à utiliser chatgpt, et comment cela a influencé son parcours académique
-8. **les enjeux éthiques et les préoccupations liés à l'utilisation de l'ia** : la conversation touche aux questions de confidentialité, d'anonymat et de l'utilisation responsable de l'ia
-9. ces thématiques sociologiques permettent d'explorer les interactions complexes entre les technologies numériques, les pratiques académiques et professionnelles, ainsi que les implications sociales plus larges de l'émergence de l'ia et de chatgpt
-10. après avoir lu attentivement l'entretien sociologique, j'ai identifié les grandes thématiques sociologiques abordées dans ce texte :
-11. **usage des outils numériques dans le contexte universitaire** : l'entretien explore la manière dont jessica utilise chatgpt dans son travail universitaire, notamment pour structurer ses idées, résumer des textes et préparer des présentations orales
-12. **impact des outils numériques sur la productivité et l'apprentissage** : la discussion examine comment chatgpt influence la productivité et la compréhension de jessica dans son travail universitaire. elle évoque les gains de temps, l'amélioration de la qualité du travail et la clarification des idées
-13. **rapports entre humains et machines dans la production de savoir** : l'entretien aborde la question de la responsabilité de l'humain dans l'utilisation des outils numériques comme chatgpt. jessica souligne que l'humain reste responsable de la machine et du savoir qu'elle produit
-14. **évolution des pratiques de travail et d'apprentissage avec l'avènement de nouvelles technologies** : la conversation met en lumière les changements dans les pratiques de travail et d'apprentissage de jessica depuis qu'elle utilise chatgpt. elle explique comment cet outil l'aide à surmonter les blocages et à mieux organiser son temps
-15. **notion de "singularité" et limites des outils numériques** : l'entretien touche brièvement à la notion de "singularité" et aux limites des outils numériques comme chatgpt. jessica reconnaît que ces outils dépendent de la qualité des questions posées et que leur capacité à produire du savoir est encore limitée
-16. **procrastination et gestion du temps** : la discussion examine également comment l'utilisation de chatgpt influence la gestion du temps et la tendance à procrastiner de jessica. elle explique que, selon les tâches, elle peut être plus ou moins proactive dans son travail
-17. ces thématiques offrent un aperçu des enjeux sociologiques liés à l'usage des outils numériques dans le contexte universitaire et à leur impact sur les pratiques de travail et d'apprentissage
-18. les grandes thématiques sociologiques abordées dans cet entretien sont :
-19. **l'impact des technologies sur les pratiques étudiantes** : l'entretien explore comment jessica utilise chatgpt pour améliorer ses performances académiques, notamment en termes de gestion du temps, de rédaction et de compréhension des consignes
-20. **la perception de la compétence et de la réussite académique** : jessica discute de sa perception de la compétence et de la réussite académique en lien avec l'utilisation de chatgpt. elle estime que l'utilisation de l'outil ne la rend pas moins compétente et que c'est une question de responsabilité individuelle de savoir utiliser les outils disponibles
-21. **les enjeux éthiques liés à l'utilisation de chatgpt** : l'entretien aborde les questionnements éthiques liés à l'utilisation de chatgpt, notamment en ce qui concerne la dépendance à l'outil et la légitimité de son utilisation dans le cadre des travaux académiques. jessica défend l'idée que l'utilisation de chatgpt est légitime si elle aide à atteindre les objectifs académiques
-22. **la relation entre l'utilisation de chatgpt et le bien-être étudiant** : jessica mentionne que l'utilisation de chatgpt réduit son stress et son anxiété liés aux échéances académiques, contribuant ainsi à son bien-être
-23. **les compétences métacognitives et l'utilisation de chatgpt** : l'entretien explore comment jessica utilise chatgpt pour développer ses compétences analytiques et critiques, notamment en améliorant sa formulation et en obtenant des idées pour ses travaux
-24. **l'accès aux outils technologiques et l'inégalité** : jessica évoque brièvement la question de l'accès aux outils technologiques, suggérant que les étudiants ont généralement accès à des téléphones et à internet, minimisant ainsi les inégalités d'accès
-25. ces thématiques sociologiques reflètent les préoccupations actuelles concernant l'intégration des technologies dans l'éducation et leurs impacts sur les pratiques étudiantes, la perception de la compétence et les enjeux éthiques
-26. voici les grandes thématiques sociologiques abordées dans cet entretien :
-27. **l'impact des technologies d'intelligence artificielle (ia) sur l'éducation** : l'entretien explore la façon dont les étudiants utilisent les outils d'ia comme chatgpt pour leurs travaux académiques et comment cela affecte leur apprentissage
-28. **les enjeux éthiques liés à l'utilisation de chatgpt** : la discussion aborde les préoccupations éthiques concernant l'utilisation de chatgpt, notamment en ce qui concerne la citation de sources, la reformulation de réponses et les biais potentiels dans les réponses générées par l'ia
-29. **la légitimité de l'utilisation de chatgpt dans les travaux académiques** : l'entretien examine les opinions de l'étudiante sur la légitimité de l'utilisation de chatgpt pour les travaux académiques, notamment en ce qui concerne l'aide à la rédaction et à la génération d'idées
-30. **les transformations dans les pratiques d'apprentissage et d'évaluation** : la discussion touche à la façon dont l'utilisation de chatgpt et d'autres outils d'ia pourrait transformer les pratiques d'apprentissage et d'évaluation dans l'enseignement supérieur, notamment en ce qui concerne l'accent mis sur la pensée critique et la complexité des tâches
-31. **les défis et les opportunités liés à l'intégration de chatgpt dans l'enseignement supérieur** : l'entretien explore les défis et les opportunités liés à l'intégration de chatgpt dans l'enseignement supérieur, notamment en ce qui concerne la formation des enseignants, l'organisation des cours et les méthodes d'évaluation
-32. **la relation entre les étudiants et les enseignants dans un contexte d'utilisation de l'ia** : la discussion aborde la relation entre les étudiants et les enseignants, notamment en ce qui concerne la communication autour de l'utilisation de chatgpt et les attentes des enseignants en matière de travaux académiques
-33. **l'évolution des compétences et des attentes dans l'enseignement supérieur** : l'entretien examine comment l'utilisation de chatgpt et d'autres outils d'ia pourrait influencer l'évolution des compétences et des attentes dans l'enseignement supérieur, notamment en ce qui concerne la pensée critique, la recherche et l'analyse
+1. <think>
+2. alright, i'm trying to figure out how to approach this query. the user provided a sociological interview transcript and asked to identify interesting themes and extract related verbatims
+3. first, i need to understand the structure of the interview. it's about jessica's use of chatgpt in her academic studies, specifically in social work. the conversation covers her perceptions, usage patterns, and the impact on her work
+4. i should start by identifying the main themes. from the transcript, it looks like she talks about her first impressions of chatgpt, how she uses it for specific tasks like summarizing texts and correcting french, her views on its potential and limitations, especially in fields requiring human empathy. there's also a part about her master's program where chatgpt is banned, which she found frustrating. she mentions using it for structuring presentations and how it helps her with concise explanations
+5. i need to categorize these points into themes. maybe start with her general perception, then move to usage in studies, the ban in master's, limitations, and future potential. each theme should have verbatim quotes that illustrate her thoughts
+6. i should make sure to capture all relevant quotes for each theme without missing any important points. also, the themes should be distinct to cover different aspects of her experience with chatgpt
+7. i wonder if there's anything about ethical considerations or data privacy. she mentions that it's free and accessible, which surprised her, but she also notes that they probably collect data. that's another theme about accessibility and data concerns
+8. also, she talks about how she collaborates with chatgpt, adjusting her questions until she gets the desired result. that could fall under her view of human responsibility in using ai tools
+9. i should organize these themes logically, starting from her introduction to chatgpt, moving through her usage, the challenges she faced, and her reflections on its capabilities and limitations
+10. i need to ensure that each theme is clearly defined and that the verbatims are accurately extracted and placed under the right categories. it's important to represent her voice and perspectives accurately in the analysis
+11. i think i've covered the main points. now, i'll structure the response with each theme as a heading, followed by the relevant quotes from jessica. this will make it clear and organized for the user
+12. </think>
+13. ### thématiques intéressantes pour une analyse sociologique :
+14. **perception de chatgpt et de l’intelligence artificielle**
+15. **verbatims** :
+16. "c'est un truc de fou, chatgpt."
+17. "c'est arrivé plus vite que prévu. et surtout, c'était gratuit."
+18. "je pense qu'il peut encore faire des choses plus incroyables."
+19. "supérieur à l'humain ? [...] pour certaines choses, chatgpt peut dépasser l'humain."
+20. "je ne suis pas stupide, je ne vais pas soumettre un article entièrement rédigé par chatgpt sans y apporter ma touche personnelle."
+21. **usage de chatgpt dans les études universitaires**
+22. **verbatims** :
+23. "je l'utilise minimum une fois par semaine pour mes cours."
+24. "je lui demande souvent d'améliorer des formulations."
+25. "je l'utilise aussi pour résumer des textes ou m'expliquer certains passages."
+26. "je l'utilise pour générer des idées [...] sur des problématiques ou des recherches liées à des contextes précis."
+27. **position critique vis-à-vis de l’interdiction de chatgpt dans certaines formations**
+28. **verbatims** :
+29. "ça m’a agacée. [...] interdire complètement chatgpt, c’est excessif."
+30. "je pense qu’ils ont peur pour la profession."
+31. "je comprends que certaines personnes l’utilisent mal ou abusent de l’outil, mais interdire complètement chatgpt, c’est excessif."
+32. **limites de chatgpt et importance des compétences humaines**
+33. **verbatims** :
+34. "il manque des éléments, comme l'empathie ou l'émotionnel."
+35. "l'humain garde toujours des compétences émotionnelles et une expertise pratique que chatgpt ne peut pas remplacer."
+36. "pour des tâches très techniques, c'est clair. mais l'humain garde toujours des compétences émotionnelles [...] que chatgpt ne peut pas remplacer."
+37. **usage de chatgpt pour structurer et organiser le travail universitaire**
+38. **verbatims** :
+39. "je l'utilise pour m’aider à structurer la présentation."
+40. "je demandais à gpt de résumer avec des listes à puces."
+41. "je remixe toujours à ma manière. les listes à puces m’aident à structurer mon discours."
+42. **collaboration entre humain et ia**
+43. **verbatims** :
+44. "je co-construisais cette question avec chatgpt, en ajustant au fur et à mesure."
+45. "chatgpt est un outil, et c’est à nous de l’utiliser correctement."
+46. "je reformule jusqu’à ce que ça fonctionne. si ça ne marche toujours pas, je recommence un nouveau chat."
+47. **accès et gratuité de chatgpt**
+48. **verbatims** :
+49. "sa gratuité m’a surpris."
+50. "comment est-ce qu'un si grand nombre de personnes peut avoir accès à un outil aussi puissant gratuitement ?"
+51. **potentiel et limites de l’ia dans la recherche académique**
+52. **verbatims** :
+53. "je pense que chatgpt pourrait écrire un article scientifique."
+54. "chatgpt n’a pas accès à ces données, mais si on les lui fournit, il peut produire des textes très bien construits."
+55. **responsabilité humaine dans l’utilisation de l’ia**
+56. **verbatims** :
+57. "chatgpt est un outil, et c’est à nous de l’utiliser correctement."
+58. "il ne fait que ce qu’on lui demande."
+59. **contrôle et régulation de l’utilisation de chatgpt dans l’enseignement supérieur**
+60. **verbatims** :
+61. "en master, c’est différent. il y a eu un module où on nous a clairement dit : 'vous avez intérêt à ne pas utiliser chatgpt.'"
+62. "si les profs ont des doutes sur nos travaux, on doit les recommencer."
+63. ces thèmes et verbatims permettent de mieux comprendre les usages, les perceptions et les enjeux sociologiques liés à chatgpt dans un contexte académique, notamment en ce qui concerne les transformations des pratiques d’apprentissage, les rapports aux technologies, et les tensions entre innovation et contrôle
+64. <think>
+65. okay, i need to help the user by identifying the sociological themes from the provided french interview text and extracting relevant verbatims. the user is likely a student or researcher analyzing the impact of chatgpt on academic work
+66. first, i'll read through the text to understand the context. it's an interview with jessica about her use of chatgpt in her studies. she discusses how it helps her with writing, time management, and reducing stress. she also touches on ethical considerations and dependencies
+67. i should identify the main themes that emerge from her responses. themes like productivity and efficiency, writing and creativity, time management, ethical issues, dependency, academic success, critical thinking, stress reduction, and social inequalities come to mind
+68. next, i'll go through each theme and find the specific quotes (verbatims) that support them. for example, under productivity, she mentions gaining time and being more efficient. for writing, she talks about overcoming writer's block
+69. i need to ensure that each theme is clearly defined and that the verbatims accurately reflect jessica's experiences and perceptions. i'll organize them in a structured way, perhaps using bullet points for clarity
+70. i should also consider the user's deeper needs. they might be preparing a paper or presentation on technology in education, so providing clear themes and quotes will help them build their analysis effectively
+71. finally, i'll present the themes and verbatims in a logical order, making it easy for the user to reference and use in their work
+72. </think>
+73. à partir du texte fourni, plusieurs thèmes sociologiques émergent qui pourraient être pertinents pour une analyse sociologique. voici les thèmes identifiés, ainsi que les verbatims associés à chaque thème :
+74. ### **1. impact de chatgpt sur la productivité et l’efficacité**
+75. **verbatims :**
+76. *"ça a clairement modifié ma façon de travailler. déjà, au lieu de me retrouver paumée devant une feuille blanche sur word, à réfléchir et me demander par quoi commencer, chatgpt m’aide à me lancer. rien que ça, c’est un gain de temps énorme."*
+77. *"je pense que je suis plus efficace. j’ai l’impression que je comprends mieux les consignes et que je passe moins de temps à rédiger."*
+78. *"parce que je ne reste plus bloquée à ne rien faire. dès que je suis bloquée, je demande de l’aide à chatgpt, ce qui me permet de continuer tout de suite, sans perdre de temps."*
+79. ### **2. chatgpt comme outil de structuration des idées et de réflexion**
+80. **verbatims :**
+81. *"oui, absolument. ça me force à être plus au clair sur ce que je veux dire. même quand je ne suis pas d’accord avec les réponses de chatgpt, ça m’aide à mieux affiner ma réflexion."*
+82. *"je me lance plus facilement et je termine plus vite. ça m’a vraiment aidée à perturber ma façon de m’organiser, mais dans le bon sens."*
+83. ### **3. gestion du temps et organisation**
+84. **verbatims :**
+85. *"avant, j’avais tendance à repousser les échéances parce que j’avais peur de la 'page blanche'. je perdais beaucoup de temps à relire les consignes, à essayer de comprendre quoi faire. maintenant, je commence mes travaux beaucoup plus tôt."*
+86. *"je préfère finir certaines tâches en avance pour avoir l’esprit tranquille et profiter de mon temps libre. c’est vraiment une aide précieuse."*
+87. ### **4. limites et défis de l’utilisation de chatgpt**
+88. **verbatims :**
+89. *"il y a eu des moments où je n’arrivais pas à faire comprendre à chatgpt ce que je voulais. mais en général, c’était à cause de moi, parce que j’avais mal formulé ma demande."*
+90. *"une autre frustration, c’est quand je travaille avec des photocopies de livres. chatgpt ne peut pas les lire, et ça peut être agaçant."*
+91. ### **5. perception de chatgpt comme outil d’aide à la compréhension et à l’apprentissage**
+92. **verbatims :**
+93. *"oui, ça m’aide beaucoup. ça me permet de mieux comprendre les consignes et de me donner des idées sur la façon d’y répondre."*
+94. *"je pense que je suis plus efficace. j’ai l’impression que je comprends mieux les consignes et que je passe moins de temps à rédiger."*
+95. ### **6. dépendance à chatgpt**
+96. **verbatims :**
+97. *"oui, mais ça ne me dérange pas du tout, parce que je ne suis pas très scolaire de base, donc ça m’arrange."*
+98. *"peut-être un peu, mais ça ne me dérange pas. parce que je trouve que c’est un outil formidable. il m’aide beaucoup, il réduit mon anxiété et m’aide à produire des travaux de qualité."*
+99. ### **7. compétences et stratégies métacognitives**
+100. **verbatims :**
+101. *"je pense que je suis assez bonne [à formuler mes questions], mais si chatgpt ne me donne pas ce que je veux, c’est souvent parce que j’ai mal formulé ma demande."*
+102. *"je prends le temps d’expliquer clairement mes attentes, parfois en plusieurs messages."*
+103. ### **8. perception de chatgpt vis-à-vis de la compétence et de la réussite académique**
+104. **verbatims :**
+105. *"je serais très contente pour moi. dans la vie, que ce soit professionnelle ou académique, on ne va pas se mentir : en général, c’est le plus malin qui réussit. et être malin, c’est aussi savoir utiliser les outils disponibles autour de toi."*
+106. *"pour moi, il y a tout un aspect humain et pratique qui est beaucoup plus important [dans le travail social]. donc, si on utilise chatgpt pour rendre des travaux, même si une partie du travail repose sur l’outil, ne me dérange pas."*
+107. ### **9. enjeux éthiques et implications morales**
+108. **verbatims :**
+109. *"oui, dès le moment où ça m’aide, pour moi, c’est légitime."*
+110. *"le but, c’est de rendre des travaux et d’obtenir un diplôme. dans le travail social, il n’y a pas que l’académique qui compte."*
+111. *"si tu n’as rien compris au sujet, l’outil ne va pas deviner ce que ton professeur attend exactement. donc, il y a toujours un peu de stress."*
+112. ### **10. tensions et dilemmes liés à l’utilisation de chatgpt**
+113. **verbatims :**
+114. *"je comprends si certains étudiants ne veulent pas l’utiliser, c’est leur choix. mais si c’est par manque de connaissances ou parce qu’ils ne savent pas comment l’utiliser, ou même qu’ils ne connaissent pas ses capacités, je trouve ça un peu triste."*
+115. *"je ne dirais pas que ça m’a rendue plus bête. oui, peut-être un peu plus paresseuse, mais ça ne m’a pas diminuée intellectuellement."*
+116. ### **11. stress et anxiété liés aux échéances académiques**
+117. **verbatims :**
+118. *"ça aide beaucoup. j’ai moins d’anxiété, surtout pour commencer des travaux de rédaction."*
+119. *"on sait que le stress peut être présent avant, pendant et même après la rédaction. est-ce que cette question continue de se poser pour toi ?"*
+120. ### **12. inégalités sociales et accès aux outils technologiques**
+121. **verbatims :**
+122. *"franchement, on n’est plus au moyen âge. je veux dire, tu peux aller à starbucks avec ton téléphone et utiliser leur wi-fi."*
+123. *"je ne connais personne autour de moi qui n’a pas de téléphone. et avec un téléphone, tu peux déjà faire beaucoup."*
+124. ces thèmes et verbatims pourront être utilisés pour analyser les dimensions sociologiques de l’utilisation de chatgpt dans un contexte académique, en mettant en lumière les enjeux liés à la technologie, l’éducation, les inégalités, les compétences cognitives et les dynamiques sociales
+125. <think>
+126. okay, i need to help the user by identifying the sociological themes from the provided interview text and extracting relevant verbatims. let me start by reading through the text carefully
+127. first, i notice jessica talking about using chatgpt for formulating questions but being careful with the answers. that seems to touch on the ethics of using ai tools in academic work. so, the theme of ethical and moral dilemmas is definitely present
+128. next, she mentions feeling uneasy about using chatgpt initially and not discussing it with professors. this makes me think about the social acceptance and stigma around using ai tools. that's another theme
+129. she also discusses how chatgpt is changing learning methods, like reducing the need for memorization. this points towards transformations in learning and evaluation practices. that's a solid theme
+130. when she talks about future impacts, like the shift from written to oral exams and the challenges that come with it, that's looking at future challenges in education. so, that's another theme
+131. lastly, her suggestion that academic institutions should adapt rather than ban chatgpt brings up the theme of institutional adaptation and policies
+132. i'll go through each part of the text and pull out the specific quotes that relate to each of these themes. i need to make sure each verbatim is clearly tied to the right theme and that i cover all parts of the conversation
+133. </think>
+134. ce texte contient plusieurs thématiques intéressantes pour une analyse sociologique, notamment en ce qui concerne l'utilisation des outils technologiques comme chatgpt dans un contexte académique et professionnel. voici les thématiques principales et les verbatims associés :
+135. ### **1. l'utilisation de chatgpt comme outil d'assistance**
+136. **thématique** : l'utilisation d'outils technologiques comme chatgpt pour faciliter ou améliorer le travail, notamment dans un cadre académique ou professionnel
+137. **verbatims** :
+138. *"ça aide à structurer ou améliorer un travail. par contre, si on commence à inventer des sources, des données ou des interviews fictives pour donner une impression de sérieux à un travail, là, ça n’a plus aucun sens. mais dans un cadre d’assistance et d’appui, c’est légitime dans tous les contextes."*
+139. *"oui, je l’utilise pour formuler les questions. pour cela, je n’ai aucun problème. cependant, lorsqu’il s’agit des réponses, je pense qu’il faut rester le plus fidèle possible à ce qui a été dit."*
+140. *"je l’utilise en toute confiance, et ce n’est plus un problème pour moi."*
+141. ### **2. les dilemmes moraux et éthiques liés à l'utilisation de chatgpt**
+142. **thématique** : les interrogations éthiques et morales entourant l'utilisation de chatgpt, notamment en ce qui concerne la transparence et l'acceptabilité de son utilisation
+143. **verbatims** :
+144. *"au début, oui. il faut un certain temps d’adaptation. je ne savais pas vraiment comment utiliser cet outil ni à quel point je pouvais en dépendre."*
+145. *"je me demandais si c’était éthique d’utiliser chatgpt pour mes travaux. est-ce que c’était acceptable d’en parler aux autres ou est-ce que je devais garder ça pour moi ?"*
+146. *"je ne fais pas de propagande, mais je n’hésite pas à dire que j’utilise chatgpt. c’est un outil génial, et je suis complètement à l’aise avec ça aujourd’hui."*
+147. ### **3. l'acceptation sociale et le regard des autres**
+148. **thématique** : la perception de l'utilisation de chatgpt par les pairs et les professionnels, ainsi que l'évolution de l'acceptation sociale
+149. **verbatims** :
+150. *"j’étais un peu gênée de dire que j’utilisais chatgpt pour mes travaux, même à mes proches."*
+151. *"maintenant, je suis beaucoup plus à l’aise avec cet usage."*
+152. *"je n’en parle pas beaucoup avec les profs, mais c’est surtout parce que je ne leur parle pas beaucoup, en général."*
+153. ### **4. l'impact de chatgpt sur les pratiques d'apprentissage et d'évaluation**
+154. **thématique** : les transformations potentielles des modalités d'apprentissage et d'évaluation avec l'utilisation d'outils comme chatgpt
+155. **verbatims** :
+156. *"je pense que l’apprentissage par cœur va être remis en question."*
+157. *"on nous demande moins de définitions et de par cœur, mais davantage de réflexion."*
+158. *"je pense que les questions posées vont devenir de plus en plus complexes, nécessitant davantage de réflexion critique."*
+159. *"les évaluations orales prendront davantage de place, car elles permettent de mieux évaluer la réflexion et la pensée critique des étudiants."*
+160. ### **5. les défis futurs liés à l'intégration de chatgpt**
+161. **thématique** : les défis potentiels liés à l'intégration de chatgpt dans les pratiques académiques, notamment en ce qui concerne la confiance, l'organisation et les politiques institutionnelles
+162. **verbatims** :
+163. *"il pourrait y avoir une perte de confiance envers les étudiants, ce qui pourrait amener à un retour à des examens sur table."*
+164. *"enseigner avec ces nouvelles formules pourrait aussi poser des défis, notamment en termes de coût et d’organisation."*
+165. *"l'académie doit faire face à la réalité. il ne faut pas ignorer l'existence de cet outil ni penser qu'il doit être banni."*
+166. ### **6. les suggestions pour améliorer l'intégration de chatgpt dans le cadre académique**
+167. **thématique** : les propositions pour une meilleure intégration de chatgpt dans les pratiques académiques, notamment en ce qui concerne les politiques institutionnelles
+168. **verbatims** :
+169. *"il ne faut pas ignorer l'existence de cet outil ni penser qu'il doit être banni."*
+170. *"il faudrait examiner comment cet outil est intégré dans d’autres formations et même dans d’autres pays, et essayer de s’adapter ici à la hes."*
+171. ces thématiques et verbatims offrent un éclairage sociologique sur les enjeux liés à l'utilisation d'outils technologiques comme chatgpt dans un contexte académique et professionnel, notamment en ce qui concerne les transformations des pratiques, les dilemmes éthiques, et les défis institutionnels
