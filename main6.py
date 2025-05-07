@@ -128,7 +128,7 @@ def process_all_pdfs(data_directory, output_directory):
 # --- Programme principal ---
 
 def main():
-    data_directory = "./data1"
+    data_directory = "./data2"
     output_directory = "./output_4"
 
     os.makedirs(output_directory, exist_ok=True)
