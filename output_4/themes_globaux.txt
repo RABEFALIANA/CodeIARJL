@@ -1,12 +1,12 @@
 Top 10 des thématiques les plus fréquentes :
 
-1. **verbatims :** : 234 occurrences
-2. **verbatims** : : 154 occurrences
-3. <think> : 95 occurrences
-4. </think> : 95 occurrences
-5. *"le truc négatif c'est l'environnement."* : 84 occurrences
-6. **verbatim :** : 43 occurrences
-7. *"je pense qu'il va être utilisé pour faire tout ce qui est devoir maison, faire des dissertations à la maison, il va être énormément utilisé."* : 42 occurrences
-8. *"je pense qu'il va continuer à creuser les inégalités en fait."* : 42 occurrences
-9. *"peut-être même prof en vrai."* : 42 occurrences
-10. *"savoir rédiger un texte, écrire correctement en français. euh moi c'est quelque chose que j'ai pris très vite."* : 41 occurrences
+1. les grandes thématiques sociologiques abordées dans cet entretien sont : : 2 occurrences
+2. dans cet entretien sociologique, plusieurs thématiques sont abordées. voici les principales : : 1 occurrences
+3. **parcours universitaire et choix de spécialisation** : clara, l'interviewée, présente son parcours universitaire, ses choix de spécialisation en sociologie et ses motivations : 1 occurrences
+4. **expérience en tant que tutrice** : clara parle de son rôle de tutrice, de ses responsabilités, et de la manière dont elle gère son temps entre cette tâche et ses études de master : 1 occurrences
+5. **travail de mémoire** : clara évoque son projet de mémoire, qui porte sur la relation entre les enseignants et les étudiants dans le cadre d'une formation en ligne, notamment à l'université en ligne "unidistance" : 1 occurrences
+6. **intelligence artificielle et chat gpt** : une partie importante de l'entretien est consacrée à la définition et à la perception de l'intelligence artificielle (ia) et de chat gpt. clara explique comment elle les définit, leur utilité potentielle, et les précautions à prendre lors de leur utilisation : 1 occurrences
+7. **découverte de chat gpt** : clara raconte comment elle a découvert chat gpt, mentionnant les réseaux sociaux, les discussions avec des proches, notamment son frère qui est ingénieur en informatique, et les médias : 1 occurrences
+8. **contexte familial et influence sur les centres d'intérêt** : l'entretien aborde brièvement le contexte familial de clara, notamment le fait que ses parents travaillent dans l'éducation, ce qui pourrait avoir une influence sur ses centres d'intérêt et son choix de sujet de mémoire : 1 occurrences
+9. **usage personnel et perception de l'ia** : bien que non explicitement détaillé dans l'extrait, l'entretien suggère une exploration de la perception et de l'usage personnel de l'ia et de chat gpt par clara : 1 occurrences
+10. en résumé, cet entretien explore le parcours universitaire de clara, son expérience professionnelle en tant que tutrice, son projet de recherche, ainsi que sa perception et sa compréhension de l'intelligence artificielle et de chat gpt, en situant ces éléments dans son contexte personnel et familial : 1 occurrences
